@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E936B7472A14E2E300B4FA1B /* RandomError.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomError.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E936B7472A14E2E300B4FA1B /* FirstHomeWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstHomeWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E936B74A2A14E2E300B4FA1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E936B74C2A14E2E300B4FA1B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E936B74E2A14E2E300B4FA1B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E936B7482A14E2E300B4FA1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E936B7472A14E2E300B4FA1B /* RandomError.app */,
+				E936B7472A14E2E300B4FA1B /* FirstHomeWork.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E936B7462A14E2E300B4FA1B /* RandomError */ = {
+		E936B7462A14E2E300B4FA1B /* FirstHomeWork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E936B75B2A14E2E500B4FA1B /* Build configuration list for PBXNativeTarget "RandomError" */;
+			buildConfigurationList = E936B75B2A14E2E500B4FA1B /* Build configuration list for PBXNativeTarget "FirstHomeWork" */;
 			buildPhases = (
 				E936B7432A14E2E300B4FA1B /* Sources */,
 				E936B7442A14E2E300B4FA1B /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = RandomError;
+			name = FirstHomeWork;
 			productName = RandomError;
-			productReference = E936B7472A14E2E300B4FA1B /* RandomError.app */;
+			productReference = E936B7472A14E2E300B4FA1B /* FirstHomeWork.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E936B7422A14E2E300B4FA1B /* Build configuration list for PBXProject "RandomError" */;
+			buildConfigurationList = E936B7422A14E2E300B4FA1B /* Build configuration list for PBXProject "FirstHomeWork" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E936B7462A14E2E300B4FA1B /* RandomError */,
+				E936B7462A14E2E300B4FA1B /* FirstHomeWork */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E936B7422A14E2E300B4FA1B /* Build configuration list for PBXProject "RandomError" */ = {
+		E936B7422A14E2E300B4FA1B /* Build configuration list for PBXProject "FirstHomeWork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E936B7592A14E2E500B4FA1B /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E936B75B2A14E2E500B4FA1B /* Build configuration list for PBXNativeTarget "RandomError" */ = {
+		E936B75B2A14E2E500B4FA1B /* Build configuration list for PBXNativeTarget "FirstHomeWork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E936B75C2A14E2E500B4FA1B /* Debug */,
